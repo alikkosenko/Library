@@ -13,12 +13,12 @@ Library with all books I need
 │   ├── Agile
 │   │   └── Чистый_Agile_Основы_гибкости.pdf
 │   ├── Architecture
+│   │   ├── Circuit_engineering
+│   │   │   ├── Harris_Cifrovaya-shemotehnika-i-arhitektura-kompyutera.411277.pdf
+│   │   │   ├── Полупроводниковая_схемотехника._12-е_изд._Том_I.pdf
+│   │   │   └── Полупроводниковая_схемотехника_Том_II.pdf
 │   │   ├── Tanenbaum_Архитектура_компьютера.pdf
-│   │   ├── Tanenbaum_Современные_операционные_системы.pdf
-│   │   └── Схемотехника
-│   │       ├── Harris_Cifrovaya-shemotehnika-i-arhitektura-kompyutera.411277.pdf
-│   │       ├── Полупроводниковая_схемотехника._12-е_изд._Том_I.pdf
-│   │       └── Полупроводниковая_схемотехника_Том_II.pdf
+│   │   └── Tanenbaum_Современные_операционные_системы.pdf
 │   ├── Docker
 │   │   └── Использование_Docker.pdf
 │   ├── Git
@@ -63,11 +63,12 @@ Library with all books I need
 ├── Fiction
 │   ├── Czy_Исскуство_войны.fb2.pdf
 │   ├── Dadzay_Исповедь_неполноценного_человека.fb2.pdf
-│   ├── Murakami_Ekstaz.fb2
-│   ├── Murakami_Melanholiya.fb2
-│   ├── Murakami_Miso-sup.fb2
-│   ├── Murakami_Parazity.fb2
-│   ├── Murakami_Tanatos.fb2
+│   ├── Murakami_Riu
+│   │   ├── Murakami_Ekstaz.fb2
+│   │   ├── Murakami_Melanholiya.fb2
+│   │   ├── Murakami_Miso-sup.fb2
+│   │   ├── Murakami_Parazity.fb2
+│   │   └── Murakami_Tanatos.fb2
 │   └── Моя_борьба_-_Адольф_Гитлер-PDF.pdf
 ├── Math
 │   └── Knut_Konkretnaya-matematika.djvu
@@ -97,4 +98,5 @@ Library with all books I need
 │   │   ├── Java-Spravochnik-razrabotchika.pdf
 │   │   └── Stilnyy-Java.pdf
 │   └── Web
-│       └── HTML-JavaScript-PHP-i-MySQL-Dzhentlmenskiy-nabor-Web-mastera-.598423.pdf
+│       └── HTML-JavaScript-PHP-i-MySQL-Web-master.pdf
+└── README.md
